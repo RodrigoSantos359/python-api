@@ -1,0 +1,12 @@
+## ⚡ COMO USAR NO N8N
+
+### 🔗 HTTP Request Node
+
+### URL:
+
+```
+http://api:8000/process
+
+```
+**Method:**
+`POST`
